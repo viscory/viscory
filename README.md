@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @viscory
-- 👀 I’m interested in cybersecurity, blockchain, distributed systems, bad humour
-- 🌱 I’m currently learning Golang and some Clarity/Solidity
+- 👀 I’m interested in cybersecurity, distributed systems, bad humour, data engineering, devOps
+- 🌱 I’m currently learning Golang and trying to rice my i3
 - 💞️ I’m looking to collaborate on interesting stuff!
-- 📫 How to reach me faiyaz[underscore]r[4t]outlook[d0t][commercial top level domain]
+- 📫 How to reach me @ faiyaz_r@outlook
 
-pls dont scrape my README
+
 
 <!---
 viscory/viscory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
