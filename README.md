@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @viscory
-- 👀 I’m interested in cybersecurity, distributed systems, bad humour, data engineering, devOps
+- 👋 Hi, I’m Faiyaz
+- 👀 I’m interested in tech, SCPs, and creepypastas
 - 🌱 I’m currently learning Golang and trying to rice my i3
 - 💞️ I’m looking to collaborate on interesting stuff!
 - 📫 How to reach me @ faiyaz_r@outlook
