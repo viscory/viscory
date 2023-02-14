@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Faiyaz
-- 👀 I’m interested in tech, SCPs, and creepypastas
-- 🌱 I’m currently learning Golang and trying to rice my i3
-- 💞️ I’m looking to collaborate on interesting stuff!
+pain
